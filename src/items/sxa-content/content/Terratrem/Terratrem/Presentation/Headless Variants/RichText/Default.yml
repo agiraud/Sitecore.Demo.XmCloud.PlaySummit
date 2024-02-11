@@ -1,0 +1,18 @@
+﻿---
+ID: "a1437ebf-d4dd-4836-9874-589584f9952f"
+Parent: "afc8efeb-ad23-496a-94e0-94e1e7490062"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Terratrem/Terratrem/Presentation/Headless Variants/RichText/Default
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DF1847D5-271E-47E0-8630-8E9BEAFE60B3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b1b997e-8de2-4050-81de-cdcb240b7464"

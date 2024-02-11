@@ -1,0 +1,13 @@
+﻿---
+ID: "f66190f6-b3ec-4a30-90cd-83bea1a3afee"
+Parent: "a0706014-1a4b-4042-9afd-78927ecbb6f4"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Terratrem/Terratrem/Sitemaps
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d4fb661-59a3-48c6-a5e1-033091e8bb81"

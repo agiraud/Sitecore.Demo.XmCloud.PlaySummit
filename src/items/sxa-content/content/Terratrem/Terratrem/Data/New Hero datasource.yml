@@ -1,0 +1,16 @@
+﻿---
+ID: "77c5d71c-c03b-4cac-a07d-7dbcdcae0058"
+Parent: "34f46a29-a39e-413e-af3d-b64535fad83f"
+Template: "6d9dd828-8139-4b1c-ad92-63aedaf95d2f"
+Path: /sitecore/content/Terratrem/Terratrem/Data/New Hero datasource
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9272831-1dfe-47ec-a6ec-f45f8a43d067"
+    - ID: "b13c8c4e-78d3-4edc-b06b-2fa0684292ce"
+      Hint: Title
+      Value: Bla bla bla

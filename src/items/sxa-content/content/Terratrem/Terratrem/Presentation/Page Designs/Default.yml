@@ -1,0 +1,21 @@
+﻿---
+ID: "17a8afef-0769-41db-925a-5db850103286"
+Parent: "5c1eb00c-1295-447d-9e38-ee3f1238dc26"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/Terratrem/Terratrem/Presentation/Page Designs/Default
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{A0CE6A28-C5DA-4D84-8DA6-8B77EB3BF600}|{21463374-0C94-497C-8A19-9E868C683B74}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{93958BEA-DC7F-4DFC-BE32-F53D0B4FD5FF}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44e1213b-c9d7-4ec5-9925-a919402a4e95"

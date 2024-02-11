@@ -1,0 +1,13 @@
+﻿---
+ID: "4e4b9167-02cf-441e-b7fc-dc9a0c345d3d"
+Parent: "34f46a29-a39e-413e-af3d-b64535fad83f"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Terratrem/Terratrem/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82a21db2-7798-424b-8af8-4a5560c94dae"

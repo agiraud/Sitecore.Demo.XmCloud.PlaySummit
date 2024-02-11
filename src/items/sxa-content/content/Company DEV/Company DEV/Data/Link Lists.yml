@@ -1,0 +1,13 @@
+﻿---
+ID: "f507fb49-0a10-4692-8725-26d0adfc28fb"
+Parent: "0b26ea52-a215-4cea-9c84-11612e31156e"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/Company DEV/Company DEV/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bac16b7d-d6df-4187-8408-df1da6570bd5"

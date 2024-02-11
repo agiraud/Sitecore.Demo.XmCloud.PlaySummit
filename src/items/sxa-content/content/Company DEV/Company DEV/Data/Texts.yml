@@ -1,0 +1,13 @@
+﻿---
+ID: "a34b52a5-81b9-4e9b-87d9-88dce103cb19"
+Parent: "0b26ea52-a215-4cea-9c84-11612e31156e"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/Company DEV/Company DEV/Data/Texts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dc25bd9-87b0-42b1-961e-934e3465eaba"

@@ -1,0 +1,17 @@
+﻿---
+ID: "8e1782ad-b24e-4ff6-a6e2-068f67acb870"
+Parent: "aebc4e65-6031-46be-9add-7bfc5beffcab"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Terratrem/Terratrem/Presentation/Placeholder Settings/Partial Design/Footer
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca96fa9b-767d-4f6c-a550-0685faf9c4c3"

@@ -1,0 +1,23 @@
+﻿---
+ID: "091448ce-9a9c-46e6-9abf-c4e8c7e0946c"
+Parent: "7482a03d-df08-4a11-99f2-91711e808f9e"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Terratrem/Partial Designs
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_selection.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{79C9FA01-5F6A-48B2-B459-05BBAA826A9D}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{FF7616DB-7189-44D3-94E7-F37C90A7C8C1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d43fe5b-5a48-42d6-acf3-a0bf1325040f"

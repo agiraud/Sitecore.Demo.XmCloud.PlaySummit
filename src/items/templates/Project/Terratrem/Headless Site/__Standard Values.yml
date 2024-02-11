@@ -1,0 +1,13 @@
+﻿---
+ID: "406457dc-fdc0-49b3-87aa-16419f57466a"
+Parent: "f7aac9ed-6e67-468a-89d2-940842e90061"
+Template: "f7aac9ed-6e67-468a-89d2-940842e90061"
+Path: /sitecore/templates/Project/Terratrem/Headless Site/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "840dcfb5-c352-4ea4-8e68-6c1276864dc3"

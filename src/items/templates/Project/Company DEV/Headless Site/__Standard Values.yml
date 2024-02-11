@@ -1,0 +1,13 @@
+﻿---
+ID: "3ed6bf7c-cfa9-4411-90ef-2519f04cca52"
+Parent: "78491dec-7f30-473a-8cd4-432dfdb78cf7"
+Template: "78491dec-7f30-473a-8cd4-432dfdb78cf7"
+Path: /sitecore/templates/Project/Company DEV/Headless Site/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98c4b0a9-72af-421c-95a2-de50cfc3ba72"

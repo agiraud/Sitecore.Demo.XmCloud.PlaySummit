@@ -1,0 +1,13 @@
+﻿---
+ID: "debe9bd9-acb1-4674-ad0d-f49d5dafd764"
+Parent: "c1ea8200-1870-4549-bbf7-b1155a4f27de"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Terratrem/Terratrem/System/F
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18d93387-da8c-4f8a-8dbf-9db7386d2bd6"

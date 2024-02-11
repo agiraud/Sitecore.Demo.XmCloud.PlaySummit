@@ -1,0 +1,18 @@
+﻿---
+ID: "c6321524-d19b-4a54-a3b0-5e98e9c9dc97"
+Parent: "d180dbe9-b778-4509-aeec-e4427f0a1ba8"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/Company DEV/Company DEV/Settings/Shared Sites Settings
+BranchID: "55330bb7-6095-414a-b29b-0042ce8d9331"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4CAE3F14-39ED-448F-A48C-F7A985A6EB77}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10e8a34e-2f0e-4519-bef0-b081ef513e61"

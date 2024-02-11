@@ -1,0 +1,17 @@
+﻿---
+ID: "3c0e6fb0-e203-4964-9c19-70a886060828"
+Parent: "115ab951-18f2-4dc9-bef0-6cef1e9fc057"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Terratrem/Terratrem/Presentation/Headless Variants/Image/Banner
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c786e2d-a27d-4b82-bd3c-a76f83daa9c2"

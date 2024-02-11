@@ -1,0 +1,13 @@
+﻿---
+ID: "3e93276c-80ef-4dd2-b5c1-77a1066424a5"
+Parent: "e1006100-f6d0-46a1-8f5a-c28b98262f05"
+Template: "e1006100-f6d0-46a1-8f5a-c28b98262f05"
+Path: /sitecore/templates/Project/Terratrem/JSS Settings/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4bd3c12f-4732-48d7-859c-98889620f8cd"

@@ -7,6 +7,9 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: 
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{CB5FD20A-F30F-4FE0-A37B-6C01623CB5E5}"
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
@@ -45,4 +48,4 @@ Languages:
       Value: center
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2092ac1f-635a-4497-975c-36fe40be7e6b"
+      Value: "6536994c-4338-4cb9-ad0b-36d5a3d65e46"

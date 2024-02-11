@@ -1,0 +1,13 @@
+﻿---
+ID: "ab69971f-93bf-430e-9c66-a2c1963b6536"
+Parent: "99133abe-c067-4947-83df-3a0e9d73be5e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Terratrem/Terratrem/System/D/5/9
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c85d2611-0d90-4a9b-9590-f0d34187a2e2"

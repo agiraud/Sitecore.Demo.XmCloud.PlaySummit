@@ -1,0 +1,13 @@
+﻿---
+ID: "b67f7c89-a207-453d-8d9e-c834935f8ee0"
+Parent: "34f46a29-a39e-413e-af3d-b64535fad83f"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/Terratrem/Terratrem/Data/Images
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eeaf93d1-d99f-4ff4-8e46-260852f976c3"

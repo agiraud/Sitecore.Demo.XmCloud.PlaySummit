@@ -1,0 +1,22 @@
+﻿---
+ID: "959fc1fc-7a09-4e51-a58c-307e8d75cd3f"
+Parent: "aeb8e0ba-c1c0-4003-89bf-cdd282103de1"
+Template: "aeb8e0ba-c1c0-4003-89bf-cdd282103de1"
+Path: /sitecore/templates/Project/Company DEV/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {AEB8E0BA-C1C0-4003-89BF-CDD282103DE1}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7725d82d-cd00-4453-a082-fe7d7750a9d6"
+      Hint: Title
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a58bf11-77a0-45b2-9199-10b8c2c4ef21"

@@ -19,7 +19,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{F8AD2F46-A1A1-41E6-B197-7679C59F5A7E}" />
+    <image mediaid="{67090673-C72D-4FBA-BE7C-EC6A71FCDEEA}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -94,6 +94,22 @@ Languages:
               <rls>
                 <ruleset
                   s:pet="true">
+                  <rule
+                    uid="{ABA8FF00-5492-4DE0-A7B0-6F5FE90A9DF0}"
+                    s:name="31afc38d76124c5ea452455dbfdff7a9">
+                    <conditions>
+                      <condition
+                        uid="150F5CADFAC245C99E7767BBC042327D"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="31afc38d76124c5ea452455dbfdff7a9" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{9C9E3913-56F3-4855-9D34-88B17ED384EF}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="61a569c9-694e-4a07-bbe9-5a200bad72c6" />
+                    </actions>
+                  </rule>
                   <rule
                     uid="{439351CF-F98B-4AB9-AA53-D6F31B1C0237}"
                     s:name="b5885a5c1dd14dd1b9059910332827f6">
@@ -369,7 +385,7 @@ Languages:
       Value: Embedded Personalization Example
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a287bf63-a656-40c0-85a7-358233c72939"
+      Value: "84bb87b0-f142-4b81-a819-ea4cfce9beca"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |

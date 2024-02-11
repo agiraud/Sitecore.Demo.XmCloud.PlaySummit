@@ -1,0 +1,19 @@
+﻿---
+ID: "a8a76081-7d39-4116-9700-551c0f11a9c3"
+Parent: "ea5858c9-7db5-42cd-a75c-f8249490a50d"
+Template: "ea5858c9-7db5-42cd-a75c-f8249490a50d"
+Path: /sitecore/templates/Project/Terratrem/Page Designs/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {814C1620-224F-4777-B475-7129CFE50415}
+    {1105B8F8-1E00-426B-BF1F-C840742D827B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96c637ca-9e34-441d-9d0c-0a439b95668a"

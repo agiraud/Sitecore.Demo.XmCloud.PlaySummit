@@ -1,0 +1,13 @@
+﻿---
+ID: "23f11422-d05f-4cd4-9d41-35622942a200"
+Parent: "a33d5422-59e9-44d8-81a5-2dac982d2d67"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Company DEV/Company DEV/Sitemaps/Company DEV
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7765ffa-038e-474d-9cad-cba2b3c80d3b"

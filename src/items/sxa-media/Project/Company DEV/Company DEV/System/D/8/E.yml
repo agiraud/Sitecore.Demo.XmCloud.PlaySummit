@@ -1,0 +1,13 @@
+﻿---
+ID: "9441938e-ffa8-4a10-baef-9c28226acc96"
+Parent: "ef35aed5-4039-4930-9bd7-9501e67161a8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Company DEV/Company DEV/System/D/8/E
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b89515fb-0efc-4a3b-81d4-0b4df818ffbc"

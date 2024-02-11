@@ -1,0 +1,13 @@
+﻿---
+ID: "df699e46-79f4-47c5-a355-1ddb2df11125"
+Parent: "1995806f-0a84-42b5-93b0-88f0e2ff872c"
+Template: "840d4a46-5503-49ec-bf9d-bd090946c63d"
+Path: /sitecore/layout/Renderings/Project/Company DEV
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5bb7ee2f-96ba-47d4-8bc3-9f7334f0e7d8"

@@ -1,0 +1,18 @@
+﻿---
+ID: "628e40dc-d366-405d-8767-43d16e94aca6"
+Parent: "d8e65124-88de-4b89-a251-10cdcdb2fc0c"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Company DEV/Company DEV/Home/Data
+BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A294864A-F47F-4FCF-AF99-5B2574BF6034}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e6fed36-39b4-463c-a0c0-e22bfc9be8f7"

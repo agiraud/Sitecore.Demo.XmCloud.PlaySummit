@@ -1,0 +1,25 @@
+﻿---
+ID: "547d6503-42f3-4ec0-a60d-8cd7d05e2b18"
+Parent: "e23228fa-d36d-4efd-b460-42c24a8997ae"
+Template: "e23228fa-d36d-4efd-b460-42c24a8997ae"
+Path: /sitecore/templates/Project/Terratrem/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E23228FA-D36D-4EFD-B460-42C24A8997AE}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5988f749-5309-40c1-a740-e512533cb238"
+      Hint: Title
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c61957c-c867-43c1-8ae2-da1dca938528"
+    - ID: "f4d394a2-8110-46e4-a989-b2b3101c551a"
+      Hint: Content
+      Value: test test

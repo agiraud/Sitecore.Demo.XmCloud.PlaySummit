@@ -1,0 +1,13 @@
+﻿---
+ID: "bf0908bc-b20a-41c1-a7b0-56549f218c9d"
+Parent: "0b26ea52-a215-4cea-9c84-11612e31156e"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/Company DEV/Company DEV/Data/Tags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5290a11-becc-401b-9f36-c47aab04376a"

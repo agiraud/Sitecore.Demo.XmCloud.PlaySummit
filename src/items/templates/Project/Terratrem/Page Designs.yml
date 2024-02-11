@@ -1,0 +1,23 @@
+﻿---
+ID: "ea5858c9-7db5-42cd-a75c-f8249490a50d"
+Parent: "7482a03d-df08-4a11-99f2-91711e808f9e"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Terratrem/Page Designs
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_chart.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{DAAF41FD-96DB-4892-BE99-F62F16D036C4}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{A8A76081-7D39-4116-9700-551C0F11A9C3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cad05bbd-48d0-4282-b948-6bbf08c5fe0a"

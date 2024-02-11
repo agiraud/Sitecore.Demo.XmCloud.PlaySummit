@@ -1,0 +1,34 @@
+{
+  "libraryId": "generated",
+  "id": "op_P6Z-Wsu",
+  "componentId": "kPWRe2B2l2",
+  "name": "Name",
+  "description": "",
+  "status": "saved",
+  "orderIdx": "03qKK",
+  "revision": 0,
+  "model": "",
+  "view": "<section class=\"-grid--custom\"></section>",
+  "diff": {},
+  "breakpointIds": null,
+  "datasourceIds": [],
+  "isEmbeddable": false,
+  "forkOriginId": null,
+  "forkOriginRevision": 0,
+  "forkedAt": null,
+  "classList": [
+    "-theme--default"
+  ],
+  "createdAt": "2024-02-05T19:00:12.947Z",
+  "deletedAt": null,
+  "modifiedAt": "2024-02-05T19:00:18.046Z",
+  "modifiedBy": {
+    "id": "6560cf8d976e197e2f2ce087",
+    "name": "agi@novicell.dk",
+    "givenName": "Antoine",
+    "familyName": "Giraud",
+    "email": "agi@novicell.dk",
+    "picture": "https://s.gravatar.com/avatar/ffa367ba9c9d3c9e62d73af9cb9b74fa?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fag.png",
+    "nickname": "agi"
+  }
+}

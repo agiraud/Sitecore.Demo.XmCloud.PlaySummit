@@ -1,0 +1,19 @@
+﻿---
+ID: "9845d667-83a4-4174-b5d6-1b80a6feb785"
+Parent: "8c5a5f5f-c17d-4188-83f7-6d35d3e8d41b"
+Template: "8c5a5f5f-c17d-4188-83f7-6d35d3e8d41b"
+Path: /sitecore/templates/Project/Company DEV/Page Design Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {8C5A5F5F-C17D-4188-83F7-6D35D3E8D41B}
+    {1105B8F8-1E00-426B-BF1F-C840742D827B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b8927bc-289a-4654-8835-1be5abd3ca9c"

@@ -1,0 +1,13 @@
+﻿---
+ID: "3a13fc3f-bc9c-4cd2-a05a-aae5982f90f2"
+Parent: "6d9dd828-8139-4b1c-ad92-63aedaf95d2f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Terratrem/Hero datasource/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af7eedce-9bed-4bed-a9d4-b062e09d2c51"

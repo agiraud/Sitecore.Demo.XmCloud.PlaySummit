@@ -1,0 +1,13 @@
+﻿---
+ID: "6610408a-e6b2-4e38-8de4-f2ac6287ecc9"
+Parent: "0b26ea52-a215-4cea-9c84-11612e31156e"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Company DEV/Company DEV/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "518415bf-386a-4e2a-8f56-85a7e9a052f0"
