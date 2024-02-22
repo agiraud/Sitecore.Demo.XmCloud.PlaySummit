@@ -1,0 +1,13 @@
+﻿---
+ID: "21bfa5e6-8702-40eb-8274-5c413f33f25c"
+Parent: "d1f95015-ddec-410c-9a41-385e65e6c9db"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Page2/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a1df481-1dad-424d-a86c-19463832b10c"

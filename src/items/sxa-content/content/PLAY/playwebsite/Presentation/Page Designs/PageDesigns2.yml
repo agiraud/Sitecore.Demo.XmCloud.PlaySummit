@@ -1,0 +1,21 @@
+﻿---
+ID: "e2240880-787b-4797-856f-15bd3370ca8a"
+Parent: "2dc25a94-3fd5-4a15-88a5-fa038cb3d035"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Page Designs/PageDesigns2
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "e56290b7-daeb-4355-8c07-974ceb0d7941|dec14166-5327-4c62-a637-2f1191f38826|462eff9e-c56a-414a-9de3-f0e913233070"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CEE0B73C-BE4B-4729-9F7B-362DB4443FCC}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1037b4be-c214-495a-b5ab-da77ba5274be"
