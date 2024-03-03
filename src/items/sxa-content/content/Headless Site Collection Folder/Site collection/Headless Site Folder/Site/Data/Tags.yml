@@ -1,0 +1,13 @@
+﻿---
+ID: "96bf4d1e-a1d8-4801-a0f8-54b0c1e45315"
+Parent: "e24e7ef0-b520-489f-b51f-ed34167dac2c"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Data/Tags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25177d98-028e-4e51-943c-5abde3fcc460"

@@ -1,0 +1,18 @@
+﻿---
+ID: "a05ae9f2-a25b-43f6-8241-8251594ccd68"
+Parent: "76bd06a1-b2d6-49d5-9303-8ac3fa78ffc4"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Presentation/Headless Variants/RichText/Default
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DF1847D5-271E-47E0-8630-8E9BEAFE60B3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fb2f09a-87b5-4f64-8cb1-746dafd572ac"

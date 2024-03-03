@@ -1,0 +1,13 @@
+﻿---
+ID: "482141a8-65c3-4c1a-aa26-f6b12557b894"
+Parent: "4f9188b4-0b41-4c54-9873-c9882bf6bef9"
+Template: "4f9188b4-0b41-4c54-9873-c9882bf6bef9"
+Path: /sitecore/templates/Project/Headless Site Collection Folder/Site collection/Headless Site/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5208fa47-94f1-46a3-8505-703c7cad70b6"

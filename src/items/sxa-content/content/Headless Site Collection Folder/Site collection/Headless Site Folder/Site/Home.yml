@@ -1,0 +1,28 @@
+﻿---
+ID: "6884f1a9-d99e-40e4-8123-6f0a3d6d9412"
+Parent: "7463e945-1007-4987-84f8-8a497e8391d2"
+Template: "af12d70b-ee39-4ff3-aa58-7cbd7406e18b"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Home
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{88BD1F68-2F3A-4769-8D85-FE30AE066A88}" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2289e9d3-e09b-4e0b-a62a-791fae339cec"
+      Hint: Title
+      Value: Site
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Site
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "787b54b0-81bc-452e-9690-3f9ef4ac05ad"

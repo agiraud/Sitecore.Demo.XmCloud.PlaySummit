@@ -1,0 +1,13 @@
+﻿---
+ID: "9910fd13-5338-4a10-9302-3dfe57663c7b"
+Parent: "e24e7ef0-b520-489f-b51f-ed34167dac2c"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Data/Texts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1ebfe5a-15f9-4620-967a-d9fdd20d0ac1"

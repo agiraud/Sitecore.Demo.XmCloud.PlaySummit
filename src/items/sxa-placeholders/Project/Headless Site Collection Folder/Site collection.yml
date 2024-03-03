@@ -1,0 +1,13 @@
+﻿---
+ID: "c245a30f-9289-44fd-bd53-b4d474c9d191"
+Parent: "e9f7fb1d-0c45-4b0f-883f-865dc6e5c412"
+Template: "3d281bf8-5336-4686-9dd6-ab4ab5b3fd5d"
+Path: /sitecore/layout/Placeholder Settings/Project/Headless Site Collection Folder/Site collection
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5572c87-f417-4614-94a0-84afdf68b718"

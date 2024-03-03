@@ -1,0 +1,13 @@
+﻿---
+ID: "02e67c0d-df55-43de-9658-e157158bb208"
+Parent: "e24e7ef0-b520-489f-b51f-ed34167dac2c"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6b8f940-874c-4d9d-aee2-f811eed27cd3"

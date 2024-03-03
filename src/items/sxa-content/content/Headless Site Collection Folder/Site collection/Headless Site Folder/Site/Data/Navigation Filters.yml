@@ -1,0 +1,13 @@
+﻿---
+ID: "e902536f-4338-4d45-a1e1-8baa6bea1a03"
+Parent: "e24e7ef0-b520-489f-b51f-ed34167dac2c"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf380081-05b9-40e3-86d7-33ac5bc69f5e"

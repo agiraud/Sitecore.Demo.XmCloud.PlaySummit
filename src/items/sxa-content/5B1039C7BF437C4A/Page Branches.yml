@@ -1,0 +1,18 @@
+﻿---
+ID: "976877b0-0004-4fcd-948a-d698a5c274a8"
+Parent: "330c14cf-65d4-4654-b656-0ab9dfae50d7"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Presentation/Page Branches
+BranchID: "aa6c7b9e-a399-47ae-82b8-0d88c695249b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{63D0F6B2-D72F-4C31-BBA2-1709C4B68B7B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df57ccb7-9553-4854-b01e-d27c3c4b31f2"

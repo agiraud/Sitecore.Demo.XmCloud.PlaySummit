@@ -1,0 +1,13 @@
+﻿---
+ID: "58021808-5be1-4946-bfe0-d91541ff9ba9"
+Parent: "2f6ba519-64ae-4f1a-9082-0396ceeae688"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Presentation/Placeholder Settings/Partial Design
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ac5666e-38af-4a62-b898-af8dba39b1f8"

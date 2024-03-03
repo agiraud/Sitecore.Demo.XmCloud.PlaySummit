@@ -1,0 +1,13 @@
+﻿---
+ID: "38785799-3a1e-4b85-bf3c-4a5111cee733"
+Parent: "3ce4fd65-7c57-4d2a-a839-b4f43f09899c"
+Template: "3ce4fd65-7c57-4d2a-a839-b4f43f09899c"
+Path: /sitecore/templates/Project/Headless Site Collection Folder/Site collection/JSS Settings/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54779c13-04af-4f5b-a4d6-1da820b396cc"

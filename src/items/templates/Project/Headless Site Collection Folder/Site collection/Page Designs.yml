@@ -1,0 +1,23 @@
+﻿---
+ID: "6c3e3801-b900-4991-bf56-9eed67c3f4d9"
+Parent: "2f6ddd51-ccbd-4754-baf7-3b5584830d8f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Headless Site Collection Folder/Site collection/Page Designs
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_chart.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{DAAF41FD-96DB-4892-BE99-F62F16D036C4}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{E082AD84-F849-49D5-8881-BC1E71644DD9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ee4ebc7-16cc-4f5a-b72d-4359c87c5861"

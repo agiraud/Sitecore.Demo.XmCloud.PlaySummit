@@ -1,0 +1,13 @@
+﻿---
+ID: "bfcdc3aa-63c5-4959-a314-2dc3b9320111"
+Parent: "1c85d0ac-dcae-4699-aee4-293653e10489"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Headless Site Collection Folder/Site collection/Headless Site Folder/Site
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4ebc6a5-68bf-4472-8a46-ad11a4f38813"

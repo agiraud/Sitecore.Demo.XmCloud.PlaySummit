@@ -1,0 +1,23 @@
+﻿---
+ID: "350a1401-4aea-40fd-b91d-7ddb43c912b6"
+Parent: "7463e945-1007-4987-84f8-8a497e8391d2"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Media
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {BFCDC3AA-63C5-4959-A314-2DC3B9320111}
+    {450BF27E-07FE-44BF-8A7A-8BBC7BAE9786}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f92d32a7-a92c-43e1-8e96-012349d3d606"

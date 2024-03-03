@@ -1,0 +1,13 @@
+﻿---
+ID: "d8cba6fd-58ce-44a4-bef3-2f03a913d899"
+Parent: "e24e7ef0-b520-489f-b51f-ed34167dac2c"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Headless Site Collection Folder/Site collection/Headless Site Folder/Site/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ade46899-119e-412f-ac81-e5acacb64f57"

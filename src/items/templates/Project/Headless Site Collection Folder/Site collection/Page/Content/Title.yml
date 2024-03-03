@@ -1,0 +1,20 @@
+﻿---
+ID: "2289e9d3-e09b-4e0b-a62a-791fae339cec"
+Parent: "ea1fb8e8-83d6-4317-b356-a3e1d9e2a1ea"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Headless Site Collection Folder/Site collection/Page/Content/Title
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a416edd-312f-4388-b5b9-a74c04b8a307"
