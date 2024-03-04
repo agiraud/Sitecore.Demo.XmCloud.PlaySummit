@@ -3,6 +3,11 @@ ID: "7055e3e4-1ba6-4017-bd2d-fac04c3e2683"
 Parent: "43ee26da-e14d-4f82-aec6-218ce987fe38"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: /sitecore/media library/Project/Company DEV/shared
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Site Collection Member|pe|+item:read|+item:create|pd|+item:rename|+item:delete|+item:write|+item:read|+item:create|
 Languages:
 - Language: en
   Versions:
@@ -10,4 +15,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "691483ba-9303-497a-947e-6569a7f2abe7"
+      Value: "749b56d9-86bf-4004-9723-47e8f983f036"

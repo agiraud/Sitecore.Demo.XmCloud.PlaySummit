@@ -3,7 +3,6 @@ ID: "567d737b-8e34-4803-bbb5-26a4f00fb077"
 Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
 Template: "8769ac11-f77c-48f6-9e83-4d9dc51e2bda"
 Path: /sitecore/content/Company DEV
-BranchID: "2d3805b9-3089-44f3-b952-d45c44add7f8"
 SharedFields:
 - ID: "102b58da-2a86-4953-b3cd-c9f91256b657"
   Hint: PlaceholderSettingsFolder
@@ -22,6 +21,9 @@ SharedFields:
     {02CD7086-1F87-41EC-B40F-B92C1226895B}
     {1B0A98C0-1801-44A0-85F2-845694FEAFF3}
     {D315A501-6503-4545-A5D8-B9FECBA1097D}
+- ID: "2f325664-bba1-4eac-8d8f-c365d2f40245"
+  Hint: RoleDomain
+  Value: 
 - ID: "800dc4ed-0846-45ba-b112-19902af240f6"
   Hint: SharedMediaLibrary
   Value: "{7055E3E4-1BA6-4017-BD2D-FAC04C3E2683}"
@@ -31,6 +33,10 @@ SharedFields:
 - ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
   Hint: Templates
   Value: "{AC491262-E47E-4A18-BEED-4289A4B412CB}"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Sitecore Client Site Managing|pd|+item:delete|+item:write|+item:rename|+item:create|pe|+item:delete|+item:write|+item:rename|+item:create|ar|sitecore\Site Collection Admin|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|
 - ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
   Value: "{43EE26DA-E14D-4F82-AEC6-218CE987FE38}"
@@ -44,4 +50,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "11dfc065-fb38-4de8-9b6f-c3c4c800d10a"
+      Value: "8d2d2c71-014c-424b-8157-801236b1bb62"
