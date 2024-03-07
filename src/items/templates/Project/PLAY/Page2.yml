@@ -9,12 +9,7 @@ SharedFields:
   Value: Office/32x32/document_text.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
-  Value: |
-    {47151711-26CA-434E-8132-D3E0B7D26683}
-    {371D5FBB-5498-4D94-AB2B-E3B70EEBE78C}
-    {4414A1F9-826A-4647-8DF4-ED6A95E64C43}
-    {F39A594A-7BC9-4DB0-BAA1-88543409C1F9}
-    {6650FB34-7EA1-4245-A919-5CC0F002A6D7}
+  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 400
@@ -28,4 +23,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "56287010-2459-4931-8fbe-01f016fa190c"
+      Value: "2210d8e0-c01b-41e9-8fc1-e1a755e2b922"

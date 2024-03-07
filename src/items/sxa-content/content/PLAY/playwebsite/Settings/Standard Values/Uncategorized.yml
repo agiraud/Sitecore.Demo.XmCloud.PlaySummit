@@ -1,0 +1,13 @@
+﻿---
+ID: "020f5c12-93fb-4e62-a6be-c1cfd315a276"
+Parent: "d21f5607-4fb4-42b4-b5b4-8e2a37946798"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Settings/Standard Values/Uncategorized
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6296732-d10d-41e4-9f37-5a68e063f5e9"
