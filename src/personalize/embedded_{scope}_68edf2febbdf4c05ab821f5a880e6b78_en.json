@@ -4,8 +4,8 @@
   "ref": "debc822c-7d8d-4399-bd34-0d9d8828b6c7",
   "name": "embedded_{scope}_68edf2febbdf4c05ab821f5a880e6b78_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-03-07T15:53:10.209Z",
-  "revision": 22,
+  "modifiedAt": "2024-03-09T15:29:11.785Z",
+  "revision": 24,
   "archived": false,
   "friendlyId": "embedded_{scope}_68edf2febbdf4c05ab821f5a880e6b78_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-03-07T15:53:10.359Z",
+    "modifiedAt": "2024-03-09T15:29:11.813Z",
     "splits": [
       {
         "template": "{\"variantId\": \"ee12ae1fa982465598b5d270b963b1d6\"}",
@@ -82,7 +82,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "82761e6d-3687-49b7-b420-7143595dd3ed",
+      "ref": "c53ef296-1458-4b40-a2e9-9a7c4306d1ab",
       "name": "Mobile",
       "tasks": [
         {
